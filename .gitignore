@@ -1,6 +1,7 @@
 tmp/
-*.*_old
+*.html_old
 *._backup
 Thumbs.db
 .DS_Store
-
+index.html_old
+NeuroStartUp.png_backup
